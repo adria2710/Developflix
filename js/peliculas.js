@@ -15,7 +15,7 @@ const peliculas = [
       "popularity": 1487.413,
       "poster_path": "/qXChf7MFL36BgoLkiB3BzXiwW82.jpg",
       "release_date": "2023-09-29",
-      "title": "Muzzle",
+      title: "Muzzle",
       "video": false,
       "vote_average": 6.3,
       "vote_count": 87
